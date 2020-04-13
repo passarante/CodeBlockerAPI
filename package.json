@@ -1,0 +1,16 @@
+{
+  "name": "codeblockerapi",
+  "version": "1.0.0",
+  "description": "A Code Block Sharing Application API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server"
+  },
+  "author": "Guney Dirim",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
